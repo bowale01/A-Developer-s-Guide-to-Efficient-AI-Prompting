@@ -1,4 +1,4 @@
-# A-Developer's-Guide-to-Efficient-AI-Prompting
+# A-Developer's Guide to Efficient AI Prompting
 Every Token Counts: A Developer's Guide to Efficient AI Prompting
 # Stop Burning Tokens: A Developer's Guide to Smarter AI Prompting
 
@@ -70,7 +70,7 @@ The fix isn't to write less — it's to write smarter.
 
 ---
 
-## 2. Be Specific. Always.
+## 2. Be Specific Always.
 
 This is the single most impactful habit. Vague prompts are expensive prompts. 
 When you're not specific, the model fills in the gaps with assumptions — 
