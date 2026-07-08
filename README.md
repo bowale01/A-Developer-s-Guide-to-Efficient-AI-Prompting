@@ -2,7 +2,7 @@
 Every Token Counts: A Developer's Guide to Efficient AI Prompting
 # Stop Burning Tokens: A Developer's Guide to Smarter AI Prompting
 
-> A practical, tool-agnostic guide for developers using GitHub Copilot, Cursor, 
+> A practical, tool agnostic guide for developers using GitHub Copilot, Cursor, 
 > Claude, ChatGPT, Kiro, or any AI assistant.
 
 ---
@@ -149,7 +149,7 @@ information? In practice, the opposite is often true.
 
 **Scenario: Debugging a single function**
 
-You have a 400-line file with a bug in one function. 
+You have a 400 lines file with a bug in one function. 
 
 ❌ What most people do:
 Paste the entire 400-line file.
